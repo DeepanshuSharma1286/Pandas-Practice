@@ -4,7 +4,7 @@ My practical learning journey with Pandas for Data Analytics.
 ## Progress
 
 - [x] Day 01 - Data Loading & Exploration
-- [ ] Day 02 - Selection & Filtering
+- [x] Day 02 - Selection & Filtering
 - [ ] Day 03 - Data Cleaning
 - [ ] Day 04 - Sorting
 - [ ] Day 05 - GroupBy & Aggregation
